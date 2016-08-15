@@ -1,4 +1,4 @@
-# alfnu-regex
+regex.alf.nu
 
 - Plain Strings (207): foo
 - Anchors (208): k$
